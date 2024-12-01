@@ -1,7 +1,6 @@
 # Usage and Purpose
 
-The purpose of this repo/endpoint is to have a convenient way of hosting and retrieving emojis.
+This repository/endpoint serves as a simple solution for hosting and accessing emojis.
 
-To use this endpoint, use this endpoint in your code:
-
+To integrate it into your code, use the following URL:
 `https://morfusee.github.io/emoji-list-api/emojis.json`
